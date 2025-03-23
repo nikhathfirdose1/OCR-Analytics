@@ -59,3 +59,7 @@ Integration of AI/ML APIs into web platforms
 Frontend-backend interaction using REST APIs
 
 Clean 3-step UI workflows for technical tools
+
+
+
+![Frontend UI](images/UI.png)
