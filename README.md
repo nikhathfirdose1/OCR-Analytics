@@ -40,16 +40,21 @@ python3 -m uvicorn main:app --reload
 
 ### Frontend 
 
+```bash
 cd frontend/my-app
 npm install
 npm start
 
+```
 
 ### .env Setup
+
+```bash
 
 AZURE_ENDPOINT=https://your-resource-name.cognitiveservices.azure.com
 AZURE_KEY=your_azure_subscription_key
 
+```
 
 
 ## Learning Outcome
